@@ -42,5 +42,8 @@ I am committed to lifelong learning and am actively honing my skills in:
 * Full-Stack Development: Building robust and scalable web applications.
 * Data Science: Leveraging data for smarter solutions.
 * Statistics: Understanding data trends and patterns to make informed decisions.
-Feel free to check out my projecs
 
+Feel free to check out my projecs and reach out to me at:
+```
+Ldellwong1@gmail.com
+```

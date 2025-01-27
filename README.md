@@ -30,6 +30,9 @@ I'm a passionate Computer Science student currently pursuing my Bachelor's degre
 * HTML, CSS, NASM (Assembly)
 
 ## 🛠️ Frameworks & Tools
+*  Scrapy, BeautifulSoup
+*  OpenaAI API
+*  MongoDB
 * .NET, .NET MAUI
 * Bootstrap
 
@@ -43,7 +46,7 @@ I am committed to lifelong learning and am actively honing my skills in:
 * Data Science: Leveraging data for smarter solutions.
 * Statistics: Understanding data trends and patterns to make informed decisions.
 
-Feel free to check out my projecs and reach out to me at:
+Feel free to check out my projects and reach out to me at:
 ```
 Ldellwong1@gmail.com
 ```
